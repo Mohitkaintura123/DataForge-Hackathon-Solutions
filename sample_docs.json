@@ -1,0 +1,105 @@
+{
+  "query": "What is the company data privacy policy?",
+  "documents": [
+    {
+      "document_id": "Doc_01",
+      "summary": "Latest company data privacy policy updated in 2024 detailing collection, storage, and processing of user data"
+    },
+    {
+      "document_id": "Doc_02",
+      "summary": "Archived company privacy policy document from 2016 containing outdated compliance clauses"
+    },
+    {
+      "document_id": "Doc_03",
+      "summary": "Marketing brochure explaining company products, services, and branding strategy"
+    },
+    {
+      "document_id": "Doc_04",
+      "summary": "GDPR compliance guidelines and legal obligations related to personal data protection"
+    },
+    {
+      "document_id": "Doc_05",
+      "summary": "Internal employee handbook covering workplace conduct and general company policies"
+    },
+    {
+      "document_id": "Doc_06",
+      "summary": "Customer data handling policy explaining consent management and data retention rules"
+    },
+    {
+      "document_id": "Doc_07",
+      "summary": "IT security documentation describing encryption standards and access control mechanisms"
+    },
+    {
+      "document_id": "Doc_08",
+      "summary": "Annual company governance report highlighting compliance, audits, and risk management"
+    },
+    {
+      "document_id": "Doc_09",
+      "summary": "Privacy impact assessment report evaluating risks related to data processing activities"
+    },
+    {
+      "document_id": "Doc_10",
+      "summary": "Incident response policy describing steps to follow in case of a data breach"
+    },
+    {
+      "document_id": "Doc_11",
+      "summary": "Third-party vendor agreement outlining data sharing and confidentiality requirements"
+    },
+    {
+      "document_id": "Doc_12",
+      "summary": "User terms of service document describing rights and responsibilities of customers"
+    },
+    {
+      "document_id": "Doc_13",
+      "summary": "Information security awareness training material for employees"
+    },
+    {
+      "document_id": "Doc_14",
+      "summary": "Audit log retention policy explaining how long system logs are stored"
+    },
+    {
+      "document_id": "Doc_15",
+      "summary": "Company code of ethics with references to confidentiality and data protection"
+    },
+    {
+      "document_id": "Doc_16",
+      "summary": "Risk assessment document analyzing threats related to unauthorized data access"
+    },
+    {
+      "document_id": "Doc_17",
+      "summary": "Cloud infrastructure security policy governing data storage on third-party platforms"
+    },
+    {
+      "document_id": "Doc_18",
+      "summary": "Data classification policy defining public, internal, confidential, and restricted data"
+    },
+    {
+      "document_id": "Doc_19",
+      "summary": "Backup and disaster recovery policy for critical company systems"
+    },
+    {
+      "document_id": "Doc_20",
+      "summary": "Press release announcing a new product launch unrelated to data privacy"
+    },
+    {
+      "document_id": "Doc_21",
+      "summary": "Customer support FAQ addressing account security and privacy concerns"
+    },
+    {
+      "document_id": "Doc_22",
+      "summary": "Internal memo discussing upcoming changes to privacy regulations"
+    },
+    {
+      "document_id": "Doc_23",
+      "summary": "Legal opinion document on cross-border data transfer regulations"
+    },
+    {
+      "document_id": "Doc_24",
+      "summary": "System architecture overview focusing on scalability and performance"
+    },
+    {
+      "document_id": "Doc_25",
+      "summary": "Historical company newsletter unrelated to compliance or data handling"
+    }
+  ]
+}
