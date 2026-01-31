@@ -16,26 +16,31 @@ Both systems focus on:
 
 ---
 
-# 📂 Project Structure
-DataForge-Hackathon-Solutions
+## 📁 Project Structure
+
+DataForge-Hackathon-Solutions/
 │
-├── PS1_Context_Audit
+├── PS1_Context_Audit/
 │   ├── context_scoring.py
 │   ├── generate_csv.py
 │   ├── sample_docs.json
-│   └── output
-│       └── .gitkeep
+│   └── output/
+│       └── PS1_Context_Audit.csv
 │
-├── PS2_Behavioral_Anomaly
+├── PS2_Behavioral_Anomaly/
 │   ├── generate_db_activity_logs.py
 │   ├── behavioral_anomaly_engine.py
-│   └── output
-│       └── .gitkeep
+│   └── output/
+│       └── db_activity_logs.csv
+│       └── anomaly_report.csv
 │
-├── README.md
+├── assets/
+│   ├── PS1_flowchart.jpg
+│   └── PS2_flowchart.jpg
+│
 ├── requirements.txt
+└── README.md
 
----
 
 #  Problem Statement 1 – Self-Auditing Context Engine
 
