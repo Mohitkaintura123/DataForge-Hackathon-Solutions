@@ -201,3 +201,4 @@ timestamp,user,role,query_type,table,rows_scanned,avg_rows,z_score,risk_percenti
 2024-01-06 20:56,UserB,Engineer,UPDATE,customers,885,991.8356164383562,-0.12375219514342856,0.31683168316831684,LOW,False,"User baseline average rows ≈ 992.0. Current query scanned 885 rows, indicating deviation from learned normal behavior."
 2024-01-15 02:30,UserA,Analyst,SELECT,transactions,12000,563.1159420289855,8.167174866279556,1.0,HIGH,True,"User baseline average rows ≈ 563.0. Current query scanned 12000 rows, indicating deviation from learned normal behavior."
 2024-01-20 01:10,UserB,Engineer,DELETE,customers,8000,991.8356164383562,8.117852035722205,0.995049504950495,HIGH,True,"User baseline average rows ≈ 992.0. Current query scanned 8000 rows, indicating deviation from learned normal behavior."
+
